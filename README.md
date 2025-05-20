@@ -1,8 +1,6 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:212223240163
-# Name:Suman 
-# Date:24/02/25
-
+# Reg No:212223100001
+# Name:Aaron Rajesh R
 
 # AIM:
 To develop the ATM and Banking System using Star UML
